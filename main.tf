@@ -71,7 +71,7 @@ resource "azurerm_linux_virtual_machine" "example" {
   }
   
   // run command after creation
-  custom_data = filebase64("cloud-init.txt")
+//  custom_data = filebase64("cloud-init.txt")
 
   # provisioner "file" {
   #   source      = "copytocloud.txt"
