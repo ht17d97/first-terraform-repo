@@ -1,2 +1,1 @@
-# first-terraform-repo
-THis is for testing purpose
+THis is for vm creation.
